@@ -1,4 +1,4 @@
-# PokerGame0.0.1
+# PokerGame
 
 Hello eveybody,
 
