@@ -1,6 +1,3 @@
-#trucs a améliorer pour la prochaine v : faire une liste qui englobe le flop, le turn et la river et faire une liste pour les cartes du flop, il faut aussi faire 4 listes trefle, pic, coeur, carreau et les mettre dans une liste : package
-#Nouvel obj : faire les jetons
-
 #American Poker Game
 #auction = no-limit
 #players = 4
